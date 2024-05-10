@@ -1,4 +1,4 @@
-# Teste_Pratico_dti-digital
+# Projeto Canil
 
 ### Instruções para executar o sistema
 
