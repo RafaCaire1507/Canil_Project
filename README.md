@@ -18,7 +18,7 @@
 
 ### Decisões de projeto
 
-1. **Tecnologias utilizadas**: O sistema foi desenvolvido utilizando React.js para o front-end, devido à sua popularidade, eficiência e facilidade de uso.
+1. **Tecnologias utilizadas**: O sistema foi desenvolvido utilizando React.js para o front-end.
 2. **Biblioteca de manipulação de data**: Utilizou-se o Luxon para manipulação de datas devido à sua facilidade de uso e recursos robustos.
 3. **Estado do aplicativo**: Utilização do hook `useState` do React para gerenciar o estado dos dados do formulário e dos resultados.
 4. **Manipulação de data**: A função `mascara_data` é responsável por formatar a data inserida no formato esperado (DD/MM/AAAA).
